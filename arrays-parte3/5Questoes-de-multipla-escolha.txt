@@ -1,0 +1,28 @@
+Nível Iniciante:
+
+
+Questões de Múltipla Escolha
+Nível Iniciante:
+1. Qual é a forma correta de criar um array vazio em JavaScript?
+a) let arr = Array[];
+b) let arr = new Array[];
+c) let arr = [];
+d) let arr = Array();
+R: c) let arr = [];
+
+2. O que o seguinte código irá criar?
+let arr = new Array(3);
+a) Um array com um elemento: o número 3
+b) Um array com três elementos undefined
+c) Um erro
+d) Um array vazio
+R: b) Um array com três elementos undefined
+
+3. Como você adiciona "maçã" ao final de um array chamado
+frutas?
+a) frutas.add("maçã");
+b) frutas.push("maçã");
+c) frutas.append("maçã");
+d) frutas[frutas.length] = "maçã";
+R:b) frutas.push("maçã");
+

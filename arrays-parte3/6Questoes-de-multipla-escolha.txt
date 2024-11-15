@@ -1,0 +1,28 @@
+Nível Iniciante para Intermediário:
+
+
+1. Qual método cria um novo array a partir de um objeto array-
+like ou iterable?
+
+a) Array.of()
+b) Array.from()
+c) Array.create()
+d) Array.make()
+R: b) Array.from()
+
+2. O que o seguinte código irá produzir?
+let arr = Array.of(3);
+a) Um array com três elementos undefined
+b) Um array com um elemento: o número
+3 c) Um erro
+d) Um array vazio
+R: b) Um array com um elemento: o número 3
+
+3. Qual é a saída do seguinte código?
+let arr = Array.from({length: 3}, (_, i) => i * 2);
+console.log(arr);
+a) [0, 1, 2]
+b) [0, 2, 4]
+c) [2, 4, 6]
+d) [undefined, undefined, undefined]
+R: b) [0, 2, 4]

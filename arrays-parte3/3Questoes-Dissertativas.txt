@@ -1,0 +1,12 @@
+Nível Iniciante
+1. Descreva duas maneiras diferentes de criar um array vazio em
+JavaScript.
+R: Duas maneiras são: Array() e Usando colchetes sem nada dentro.
+
+2. Explique a diferença entre criar um array usando colchetes [] e
+usando o construtor new Array().
+R: A com colchetes é algo mais direto e simples sendo preferido por muitos. O new Array() pode causar confusão em certas ocasiões.
+
+3. Como você pode adicionar elementos a um array após sua
+criação? Mencione pelo menos dois métodos.
+R: Os três métodos são: push(), unshift() e concat()

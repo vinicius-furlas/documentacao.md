@@ -1,0 +1,18 @@
+1. Explique o que é o método Array.from() e forneça um exemplo de
+uso.
+R: O método Array.from() é uma forma de criar um novo array a partir de um objeto semelhante a um array
+
+2. Descreva a diferença entre Array.of() e o construtor Array(). Por
+que Array.of() foi introduzido?
+R: O Array.of() Cria um novo array com os elementos passados como argumentos, independentemente do número de argumentos. O Construtor Array() Se chamado com um único argumento numérico, cria um array com o comprimento especificado, mas sem elementos definidos. Array.of() foi introduzido para resolver o duplo sentido do construtor Array() quando um único argumento numérico é passado.
+
+3. Como você criaria um array com 5 elementos, todos inicializados
+com o valor zero? Forneça pelo menos duas abordagens
+diferentes.
+R:
+let arrayZeros1 = new Array(5).fill(0);
+console.log(arrayZeros1);
+
+let arrayZeros2 = Array.from({ length: 5 }, () => 0);
+console.log(arrayZeros2);
+
