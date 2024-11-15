@@ -1,0 +1,12 @@
+1. Explique o que são arrays multidimensionais e forneça um
+exemplo de uso prático.
+R: Arrays multidimensionais são arrays que contêm outros arrays como elementos, formando uma estrutura em várias dimensões. Eles são úteis para representar dados em tabelas, matrizes matemáticas ou grades
+
+2. Como você pode adicionar elementos ao final de um array? E ao
+início? Explique os métodos utilizados.
+R: Para adicionar ao final, usa-se o método push(elemento). Para adicionar ao início, utiliza-se o método unshift(elemento).
+
+3. Descreva o que é a propriedade length de um array e como ela
+pode ser útil em programação.
+R: Indica o número total de elementos. Ela é útil para saber o tamanho do array, iterar sobre os elementos ou acessar o último elemento.
+

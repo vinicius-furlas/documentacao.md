@@ -1,0 +1,10 @@
+1. O que é um array em JavaScript e por que ele é útil?
+R:  Array é uma estrutura de dados que armazena uma coleção ordenada de elementos. Ele é útil porque permite armazenar e manipular múltiplos valores em uma única variável
+
+2. Como você acessa o primeiro e o último elemento de um array
+em JavaScript?
+R: O primeiro elemento de um array pode ser acessado pelo índice 0 e o último elemento pode ser acessado usando o índice array.length - 1.
+
+3. Descreva a diferença entre um array e uma variável comum em
+JavaScript.
+R: Uma variável comum armazena apenas um valor único. Um array pode armazenar múltiplos valores

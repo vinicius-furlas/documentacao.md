@@ -1,0 +1,24 @@
+1. Qual é a saída do seguinte código?
+let frutas = ['maçã', 'banana', 'laranja'];
+console.log(frutas[1]);
+a) maçã
+b) banana
+c) laranja
+d) undefined
+R: b) banana / a) maçã
+
+2. Como você declara um array vazio em JavaScript?
+a) let array = {};
+b) let array = [];
+c) let array = new Array;
+d) let array = '';
+R: b) let array = []; a) / let array = {};
+
+3. Qual é o índice do último elemento em um array com 5
+elementos?
+a) 4
+b) 5
+c) 6
+d) Depende dos elementos do array
+R: a) 4 / c) 6
+
